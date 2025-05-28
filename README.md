@@ -1,7 +1,7 @@
-## Hey there, here's a brief intro ig...
+## Hey there, here's a brief intro...
 --- 
 
 - currently learning DSA, and repeatedly humbling myself on Codeforces.
 - (tyring to) use vim.
 - how to reach me? why would you want to in the first place?
-- yeah, that's pretty much it at the moment.
+- yeah, that's pretty much it at the moment ig.
