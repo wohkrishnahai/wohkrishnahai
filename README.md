@@ -1,7 +1,5 @@
 ## Hey there!
---- 
-
-- currently learning DSA, and repeatedly humbling myself on Codeforces.
-- using vim btw.
-- use LinkedIn for reaching out.
-
+- Currently learning DSA, Web Development
+- Repeatedly humbling myself on Codeforces
+- I use Vim btw
+- Reach out to me on LinkedIn
